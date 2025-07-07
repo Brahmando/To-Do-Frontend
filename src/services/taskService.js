@@ -1,4 +1,4 @@
-const API_BASE_URL = 'to-do-backend-production-b4f4.up.railway.app';
+const API_BASE_URL = 'https://to-do-backend-production-b4f4.up.railway.app/api';
 
 export const getTasks = async () => {
   try {
